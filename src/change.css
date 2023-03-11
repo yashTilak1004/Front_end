@@ -1,0 +1,14 @@
+.header {
+  background-color: #282c34;
+}
+.footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  font-family: Sans-Serif;
+  text-align: center;
+  bottom: auto;
+}
+.login {
+  margin-bottom: 60px;
+}
